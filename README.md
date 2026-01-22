@@ -43,7 +43,7 @@ This guide covers 15 essential workload security controls from the [AWS Prescrip
 
 Before you begin, make sure you have:
 
-- [ ] Completed the [AWS Account Security Baseline](https://github.com/rushealy-aws/aws-prescriptive-guidance-account-security-step-by-step)
+- [ ] Completed the [AWS Account Security Baseline](https://github.com/agavili-aws/aws-prescriptive-guidance-account-security-step-by-step)
 - [ ] An AWS account with proper IAM permissions
 - [ ] Basic understanding of AWS services (EC2, S3, VPC)
 - [ ] Access to the AWS Management Console and CLI
@@ -87,7 +87,7 @@ These controls build upon each other, so follow this recommended sequence:
 ## 🔗 Related Resources
 
 ### Prerequisites
-- **Account Security**: [AWS Account Security Baseline](https://github.com/rushealy-aws/aws-prescriptive-guidance-account-security-step-by-step) (complete this first!)
+- **Account Security**: [AWS Account Security Baseline](https://github.com/agavili-aws/aws-prescriptive-guidance-account-security-step-by-step) (complete this first!)
 
 ### AWS Documentation
 - [AWS Security Best Practices](https://docs.aws.amazon.com/security/)
